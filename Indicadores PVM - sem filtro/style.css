@@ -1,0 +1,7 @@
+body{
+  overflow-y: hidden;
+}
+.teste{
+  display: flex;
+  position: fixed;
+}
